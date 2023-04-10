@@ -1,0 +1,21 @@
+.join{
+    margin-left: 8px;
+}
+.trang{
+    margin: 0 auto;
+    
+}
+.bd {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.bd iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
